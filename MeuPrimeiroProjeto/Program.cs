@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Olá, meu nome é Christopher");
+        Console.WriteLine("Olá, meu nome é Christopher, vamos brincar de somar!");
 
         Console.WriteLine("===== SOMA DE DOIS NÚMEROS =====");
 
